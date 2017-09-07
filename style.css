@@ -1,0 +1,27 @@
+@charset "UTF-8";
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+    width: 100%;
+    background-image: url(../wipstudios/media/back.png);
+}
+.wrapper{
+    width: 960px;
+}
+img{
+	display: block;
+}
+a img{
+	border: none;
+}
+header{
+    width: 960px;
+}
+main{
+    width: 960px;
+}
+footer{
+    width:960px;
+}
